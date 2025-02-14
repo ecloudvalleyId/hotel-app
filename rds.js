@@ -2,7 +2,7 @@ var mysql = require('mysql');
 
 
 var rdsUrl = 'hotel-app-database.cjftouxk1nuo.ap-southeast-1.rds.amazonaws.com';
-var password =  'rovte5-cahmAz-ceprac';
+var password =  'FC83fB90V1HBqY9qoA6j';
 var user = 'admin';
 
 // mysql connection pool
